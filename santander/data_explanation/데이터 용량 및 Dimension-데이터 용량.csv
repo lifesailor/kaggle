@@ -1,0 +1,10 @@
+데이터,압축 용량,압축 해제 용량,Dimension
+train_ver2.csv,214.26 MB,2.2 GB,"13,647,309 * 48"
+test_ver2.csv,12.39 MB,106 MB,"929,615 * 24"
+sample_submission.csv,2.37 MB,23 MB,"929,615 * 2"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
