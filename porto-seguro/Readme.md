@@ -1,0 +1,4 @@
+- Porto-seguro 경진대회는 late submission으로 진행
+- 결과: 1984 / 5169
+- winners code: 약 50등
+- Feature Engineering + Hyperparameter Tuning의 적절한 조합 필요
