@@ -1,3 +1,2 @@
-Kaggle Competition 연습
-----------
-
+Kaggle Competition Practice
+=====

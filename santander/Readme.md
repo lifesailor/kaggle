@@ -1,3 +1,2 @@
 Santander Competition
----
-- 연습용 경진대회: 머신러닝 탐구생활 학습
+====
