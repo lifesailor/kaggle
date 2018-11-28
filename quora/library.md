@@ -6,6 +6,7 @@
 2. spacy: nltk 대체하기 위해서 사용
 3. gensim: 토픽 모델링 할 때 사용
 4. standford NLP
+5. sentence: bp tokenizer, wordpiece tokenizer
 
 
 
